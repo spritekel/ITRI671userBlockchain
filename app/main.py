@@ -159,4 +159,4 @@ def search_chain():
     
 
 # Functions to run the application
-app.run(host='0.0.0.0', port=6000)
+app.run()
