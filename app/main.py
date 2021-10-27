@@ -159,4 +159,4 @@ def search_chain():
     
 
 # Functions to run the application
-app.run()
+app.run(port=6000)
